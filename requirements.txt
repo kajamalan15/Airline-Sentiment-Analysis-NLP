@@ -1,0 +1,6 @@
+joblib
+spacy
+streamlit
+scikit-learn  
+
+
