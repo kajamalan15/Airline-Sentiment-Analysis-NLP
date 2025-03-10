@@ -51,7 +51,7 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 # App title
-st.title("✈ Airline Sentiment Analysis")
+st.title("✈️ Airline Sentiment Analysis")
 
 # Input area with placeholder
 text_input = st.text_area("Enter your airline review:", placeholder="e.g., 'Great service, but long delays!'")
